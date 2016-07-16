@@ -1,2 +1,2 @@
 # IoT
-Test 1:This is the Page for IoT framewrok using python 
+Test 2::This is the Page for IoT framewrok using python 
